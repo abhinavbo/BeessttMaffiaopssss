@@ -34,8 +34,8 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_
 
 <h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/deepaiims/BeessttMaffiaopssss"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
-
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/abhinavbo/BeessttMaffiaopssss"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
+.
 
 
 </details>
